@@ -1,0 +1,5 @@
+.env
+node_modules
+commands/utility/old.js
+chat.txt
+chatFormatted.txt
